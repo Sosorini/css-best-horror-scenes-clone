@@ -9,15 +9,11 @@
 
 ## KEYPOINT
 
-Left Column
+1. Left Column - Fixed view (not relevant with scroll)
 
-Fixed view (not relevant with scroll)
+2. Gradient color implement 
 
-Right Column 
-
-Gradient color implement 
-
-Image floating effect
+3. Image floating effect
 
 ## KEYWORD & FUNCTIONS
 
